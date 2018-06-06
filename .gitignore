@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 private.py
+README.ipynb
 
 # C extensions
 *.so
