@@ -14,13 +14,6 @@ Clone this repo to your computer.
 
 Get into the folder using cd NYT_decades.
 
-### Install the requirements
-Install the requirements using `$pip install -r requirements.txt`.
-
-Make sure you use Python 3.
-
-You may want to use a virtual environment for this.
-
 ### Usage
 Run all cells in the `New_York_Times_Decades.ipynb` file using a jupyter notebook.
 
