@@ -9,7 +9,7 @@ After analyzing the data, I will ask and answer questions using statistics and v
 
 
 ### Installation
-Download the `student-mat.csv` file, above, or through the [Kaggle Dataset link](https://www.kaggle.com/uciml/student-alcohol-consumption):
+Download the `student-mat.csv` file, above, or through the [Kaggle Dataset link](https://www.kaggle.com/uciml/student-alcohol-consumption).
 
 ### Usage
 Run all cells in the `Student_Success_Analytic_Report.ipynb` file using a jupyter notebook.

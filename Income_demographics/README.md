@@ -14,6 +14,7 @@ Download the `adult.data.csv` file, above, or through the [UCI Machine Learning 
 
 ### Usage
 Run all cells in the `Gender_Pay_Gap_Modeling` file using a jupyter notebook.
+Summary of the analysis and modeling can be found in the `Predicting Income Based on Demographic Data.pptx` file. 
 
 ### Extending this
 If you want to extend this work, here are a few places to start:
