@@ -8,7 +8,7 @@ __Project Overview:__ Baltimore's high crime rate is a threat not only to its ci
 
 __Skills Showcased:__ EDA, Narrative Analytics, Experimental Design, A/B Test Design, Communication of Results
 
-###[Hydraulic Fracturing Optimization](https://github.com/ephs08kmp/ds_portfolio/tree/master/Hydraulic_Fracturing_Optimization)
+### [Hydraulic Fracturing Optimization](https://github.com/ephs08kmp/ds_portfolio/tree/master/Hydraulic_Fracturing_Optimization)
 __Project Overview:__ In the oil and gas industry, there are no best practices on which hydraulic fracturing conditions, and specifically fluid systems to use when.  This project analyzes Colorado well production for different well characteristics and fluid system types to develop a product that well operators could use to predict the fluid system that would create the highest production for a particular well.
 
 __Skills Showcased:__ Data Cleaning, EDA, Feature Selection and Engineering, Supervised Machine Learning, Regression, Clustering, Data Science Product
