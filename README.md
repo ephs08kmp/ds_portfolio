@@ -8,10 +8,15 @@ __Project Overview:__ Baltimore's high crime rate is a threat not only to its ci
 
 __Skills Showcased:__ EDA, Narrative Analytics, Experimental Design, A/B Test Design, Communication of Results
 
+###[Hydraulic Fracturing Optimization](https://github.com/ephs08kmp/ds_portfolio/tree/master/Hydraulic_Fracturing_Optimization)
+__Project Overview:__ In the oil and gas industry, there are no best practices on which hydraulic fracturing conditions, and specifically fluid systems to use when.  This project analyzes Colorado well production for different well characteristics and fluid system types to develop a product that well operators could use to predict the fluid system that would create the highest production for a particular well.
+
+__Skills Showcased:__ Data Cleaning, EDA, Feature Selection and Engineering, Supervised Machine Learning, Regression, Clustering, Data Science Product
+
 ### [Income Demographics](https://github.com/ephs08kmp/ds_portfolio/tree/master/Income_demographics)
 __Project Overview:__ Income disparities are of great concern to both individuals and coroporations.  This project analyzes census demographic data, which includes data about if a person's income was over or under \$50,000 for the year.  This analysis was then used to create features to identify the demographic indicators that would then be used in models to predict if a person would earn over or under \$50,000.  This analysis was then compared to men and women to determine how the factors differ between the two sexes. 
 
-__Skills Showcased:__ EDA, Data Cleaning, Feature Engineering, Supervised Machine Learning, Communication of Results
+__Skills Showcased:__ EDA, Data Cleaning, Feature Engineering, Supervised Machine Learning, Classification, Communication of Results
 
 ### [NYT Decades](https://github.com/ephs08kmp/ds_portfolio/tree/master/NYT_decades)
 __Project Overview:__ The world has changed since the 1960's, but has the way it has been reported in the media? This project analyzes New York Times texts from five different decades from 1960 to 2010.  After scraping and cleaning the texts, natural language processing techniques were used to extract information from the texts.  This information was then used to cluster texts and model the decade from which a text was written. 
